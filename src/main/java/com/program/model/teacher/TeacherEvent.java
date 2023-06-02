@@ -53,7 +53,7 @@ public class TeacherEvent {
         this.approve = approve;
     }
 
-    @JsonIgnore
+    @JsonProperty("teacher_id")
     public Long getTeacherId(){
         return teacher.getTeacherId();
     }
