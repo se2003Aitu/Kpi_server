@@ -34,4 +34,4 @@ jobs:
           service-name: spring-app
           app-name: kpi-app
           use-staging-deployment: false
-          package: ${{ env.ASC_PACKAGE_PATH }}/**/*.jar
+          package: ${{ env.ASC_PACKAGE_PATH }}/target/*.jar
