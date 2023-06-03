@@ -23,7 +23,6 @@ import com.program.repository.CategoryRepository;
 import com.program.service.CategoryService;
 
 @RestController
-//@RequestMapping(value = "/api")
 public class CategoryController {
 
 	@Autowired
