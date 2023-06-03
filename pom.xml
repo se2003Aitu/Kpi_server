@@ -8,11 +8,11 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.manoj</groupId>
+	<groupId>com.program</groupId>
 	<artifactId>Product_App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Product_App</name>
-	<description>Library management App Using spring boot </description>
+	<name>Kpi_server</name>
+	<description>Kpi management</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
